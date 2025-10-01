@@ -1,0 +1,12 @@
+ModManager.register(new ModArmorStatus());
+ModManager.register(new ModPotionStatus());
+ModManager.register(new ModToggleSprint());
+ModManager.register(new ModCustomCrosshair());
+ModManager.register(new ModHurtcam());
+ModManager.register(new ModChat());
+ModManager.register(new ModScoreboard());
+ModManager.register(new ModBlockOverlay());
+ModManager.register(new ModPotionPrediction());
+ModManager.register(new ModCooldown());
+ModManager.register(new ModDirectionHUD());
+ModManager.register(new ModCapes());
